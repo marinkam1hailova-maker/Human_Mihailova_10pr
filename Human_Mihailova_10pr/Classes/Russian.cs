@@ -36,7 +36,7 @@ namespace Human_Mihailova_10pr.Classes
             List<Phrase> allPhrases = new List<Phrase>();
             allPhrases.Add(new Phrase("Привет", @"E:\3курс\ощепков\10\Human_Mihailova_10pr\Human_Mihailova_10pr\Voices\Voice1.mp3"));
             allPhrases.Add(new Phrase("Как дела?", @"E:\3курс\ощепков\10\Human_Mihailova_10pr\Human_Mihailova_10pr\Voices\Voice2.mp3"));
-            allPhrases.Add(new Phrase("Меня зовут Виктория.", @"E:\3курс\ощепков\10\Human_Mihailova_10pr\Human_Mihailova_10pr\Voices\Voice3.mp3"));
+            allPhrases.Add(new Phrase("Меня зовут Марина.", @"E:\3курс\ощепков\10\Human_Mihailova_10pr\Human_Mihailova_10pr\Voices\Voice3.mp3"));
             return allPhrases;
         }
     }
